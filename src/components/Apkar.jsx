@@ -2,7 +2,7 @@ import React from 'react'
 
 const Apkar = () => {
   return (
-    <div>Apkar</div>
+    <div className="bg-black text-white p-4">Apkar</div>
   )
 }
 
