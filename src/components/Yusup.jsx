@@ -2,7 +2,7 @@ import React from 'react'
 
 const Yusup = () => {
   return (
-    <div>Yusup</div>
+    <div className='bg-amber-500 text-white text-9xl text-center'>Yusup</div>
   )
 }
 
