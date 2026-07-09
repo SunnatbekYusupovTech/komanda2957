@@ -2,7 +2,7 @@ import React from 'react'
 
 const Zapar = () => {
   return (
-    <div>Zapar</div>
+    <div className='bg-blue-800 text-white text-center text-[70px]'>Zafarbek</div>
   )
 }
 
