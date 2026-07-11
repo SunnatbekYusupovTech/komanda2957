@@ -39,11 +39,11 @@ const Zapar = () => {
         <div className="hidden lg:block bg-gray-900 text-gray-300 text-xs">
           <div className="max-w-7xl mx-auto px-4 py-1.5 flex items-center justify-between">
             <div className="flex items-center gap-4">
-              <span className="flex items-center gap-1">\uD83D\uDE9A Bepul yetkazib berish</span>
+              <span className="flex items-center gap-1">Shop Bepul yetkazib berish</span>
               <span className="w-px h-3 bg-gray-700"></span>
-              <span className="flex items-center gap-1">\uD83D\uDD04 30 kunlik qaytarish</span>
+              <span className="flex items-center gap-1">Shop 30 kunlik qaytarish</span>
               <span className="w-px h-3 bg-gray-700"></span>
-              <span className="flex items-center gap-1">\uD83D\uDCDE 24/7 qo'llab-quvvatlash</span>
+              <span className="flex items-center gap-1">Shop 24/7 qo'llab-quvvatlash</span>
             </div>
             <div className="flex items-center gap-4">
               <a href="#" className="hover:text-white transition-colors duration-200">Sotuvchilar uchun</a>
@@ -66,7 +66,7 @@ const Zapar = () => {
                 </svg>
               </button>
               <div className="flex items-center gap-2">
-                <span className="text-3xl">\uD83D\uDECD\uFE0F</span>
+                <span className="text-3xl">Shop</span>
                 <div>
                   <h1 className="text-2xl font-extrabold tracking-tight">
                     <span className="text-gray-900">Shop</span>
